@@ -1,2 +1,2 @@
-# WNT
-It is a Word for .txt file
+<h1>WNT</h1>
+<h3>Platfotm:OS Windows</h3>
