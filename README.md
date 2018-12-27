@@ -8,3 +8,4 @@
 <p>     •Departments</p>
 <p>     •Tables</p>
 <p>     •Special symbols</p>
+<p>     •Pictures</p>
