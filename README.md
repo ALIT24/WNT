@@ -9,3 +9,6 @@
 <p>     •Tables</p>
 <p>     •Special symbols</p>
 <p>     •Pictures</p>
+<h3>Screenshots:</h3>
+<img src="Screenshot1.jpg">
+<img src="Screenshot2.jpg">
