@@ -9,6 +9,9 @@
 <p>     •Tables</p>
 <p>     •Special symbols</p>
 <p>     •Pictures</p>
+<h3>Run:</h3>
+<p>1.Download WNT.exe</p>
+<p>2.Run WNT.exe</p>
 <h3>Screenshots:</h3>
 <img src="Screenshot1.jpg">
 <img src="Screenshot2.jpg">
